@@ -31,3 +31,14 @@ Treinamento:
 Treinamento individual dos três algoritmos nos dados preparados.
 Predição e Avaliação:
 Cada modelo realiza a predição dos papéis temáticos com base nas características extraídas.
+
+Métricas de avaliação:
+Precisão:
+A proporção de predições corretas para uma classe específica em relação ao total de predições feitas para essa classe.
+
+Recall:
+ A proporção de exemplos corretamente classificados como positivos em relação ao total de exemplos realmente positivos.
+
+F1-Score:
+Equilibrar precisão e recall.
+Para caso tenha classes desbalanceadas, pois combina ambas as métricas em uma única medida.
